@@ -13,7 +13,7 @@ typedef struct {
 } calc;
 
 // functions prototypes
-//  start the game
+// start the game
 void play();
 // select the difficult
 void difficult(calc calculation);
