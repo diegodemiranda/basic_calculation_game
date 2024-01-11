@@ -1,1 +1,5 @@
 .DS_Store
+output/game
+output/game.dSYM/Contents/Info.plist
+output/game.dSYM/Contents/Resources/DWARF/game
+output/game.dSYM/Contents/Resources/Relocations/aarch64/game.yml
